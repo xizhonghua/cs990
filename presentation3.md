@@ -18,7 +18,10 @@ A plan for how you might conduct the research'*
 ### Introdution
 
 ### Research Area
-My research mainly focus on following tree areas: 
-first as you may know is Rigid Origami
-Sampling-based motion planning
+My research mainly focus on the following tree areas: 
+
+First as you may know, is rigid origami. 
+I am mainly focus on problem of modeling the origami that is how to repsent the origami, what's the state space and kinematics of the origami etc.
+
+Secoind is the sampling-based motion planning which is used to find the foldable and collision free path for rigid origami from a flat of sheet to its target shape.
 
