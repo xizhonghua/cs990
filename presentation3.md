@@ -15,3 +15,10 @@ A plan for how you might conduct the research'*
 
 ----
 
+### Introdution
+
+### Research Area
+My research mainly focus on following tree areas: 
+first as you may know is Rigid Origami
+Sampling-based motion planning
+
